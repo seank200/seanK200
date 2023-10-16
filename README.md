@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+I am a developer with full-stack project experience in web programming. I am also currenly a neuroscience researcher working on efficient algorithms for mapping human brain neuron connectivity.
+
+Also check out my portfolio: [https://youngwookim.com]
+
 <!--
 **seanK200/seanK200** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
