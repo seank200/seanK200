@@ -1,19 +1,58 @@
-# Hi, I am ******** 👋
+# 안녕하세요, \*\*\* 입니다
 
-I am a developer with full-stack project experience in web programming. I was also a neuroscience researcher working on efficient algorithms for mapping human brain neuron connectivity.
+풀스택 웹 개발자 Full-stack web developer
 
-<h3 align="center">📚 Tech Stack</h3>
-<p align="center">
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />&nbsp;
-  <img src="https://img.shields.io/badge/Next.js-424848?style=flat-square&logo=nextdotjs&logoColor=white" />&nbsp;
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white" />&nbsp;
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />&nbsp;
-  <img src="https://img.shields.io/badge/MYSQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />&nbsp;
-  <img src="https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=white" />&nbsp;
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />&nbsp;
-</p>
-<p align="center">
-  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white" />&nbsp;
-  <img src="https://img.shields.io/badge/GNU%20Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white" />&nbsp;
-  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white" />&nbsp;
-</p>
+## 프로젝트 경험
+
+### NFT 위키 플랫폼 서버 개발/CTO (Sigmate)
+
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white" /> &nbsp;<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" /> &nbsp;<img src="https://img.shields.io/badge/MYSQL-4479A1?style=flat-square&logo=mysql&logoColor=white" /> &nbsp;<img src="https://img.shields.io/badge/DynamoDB-4053D6?style=flat-square&logo=AmazonDynamoDB&logoColor=white" /> &nbsp;<img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=Redis&logoColor=white" /> &nbsp;<img src="https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=black" /> &nbsp;<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" /> &nbsp;<img src="https://img.shields.io/badge/Bash-4EAA25?logo=gnubash&style=flat-square&logoColor=white" />
+
+- REST API 서버 개발 주도 (`NodeJS`)
+- `MYSQL`, `NoSQL`, `Redis` DB 모델링
+- 웹 서버 시스템 아키텍쳐 구축 및 아마존웹서비스(AWS) 배포
+- 개발(6명), 기획(3명), 마케터(1명), 디자인(1명)과 협업하며 약 1년간 서비스 운영. 주기적 유지보수 및 업데이트 배포 실시
+- 2022 중소기업벤처부 창업지원대상 선정
+
+### 뇌신경 섬유추적지도 알고리즘 개발
+
+<img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white" /> &nbsp;<img src="https://img.shields.io/badge/MATLAB-c04d0b?style=flat-square" /> &nbsp;<img src="https://img.shields.io/badge/MPI-0073b5?style=flat-square" /> &nbsp;<img src="https://img.shields.io/badge/Bash-4EAA25?logo=gnubash&style=flat-square&logoColor=white" />
+
+- 뇌 확산텐서영상(DTI) 처리를 위한 확산텐서 추출 알고리즘 최적화(`C++`), 병렬화(`MPI`)
+- 대규모 클러스터 서버 내 성능 테스팅 실시, 테스트 결과 분석 및 시각화(`MATLAB`)
+- 뇌 MRI 영상 데이터 처리 파이프라인 개발
+
+### 링크 저장, 공유, 탐색 플랫폼 웹 프론트엔드 개발 (Poolink)
+
+<img src="https://img.shields.io/badge/ReactJS-61DAFB?style=flat-square&logo=React&logoColor=white" /> &nbsp;<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" /> &nbsp;<img src="https://img.shields.io/badge/React%20Query-FF4154?style=flat-square&logo=reactquery&logoColor=white" /> &nbsp;<img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" />
+
+- 웹 프론트엔드 개발 (`ReactJS`, 반응형 디자인, SPA, CSR)
+- 개발(4명), 기획(2명), 디자인(2명)과 협업하여 약 6개월간 서비스 운영. 주기적 유지보수 및 업데이트 배포 실시
+- 2021 중소기업벤처부 창업지원대상 선정
+
+### \*\*대학교 교내 프로그램 학생 참석 관리 프로그램 풀스택 개발
+
+<img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white" /> &nbsp;<img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white" /> &nbsp;<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" /> &nbsp;<img src="https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jquery&logoColor=white" /> &nbsp;<img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" /> &nbsp;<img src="https://img.shields.io/badge/MYSQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+
+- 웹 풀스택 개발 (`HTML`, `CSS`, `JS`, `jQuery`, `MYSQL`, `PHP`)
+- 가입유저 350-400명, 주기적 유지보수 및 업데이트 배포 실시
+- 약 1년 간 운용 후 교내 정식 시스템으로 채택
+
+## 업무 경험
+
+- **연구원**. \*\*대학교 계산뇌과학연구실 (2023. 3. - 2023. 11.)
+- **인턴 연구원**. 미국 \*\*\* 국립 연구소 (2023. 6. - 2023. 8.)
+- **CTO**. Web3 기술 스타트업 Facade (2022. 3. - 2023. 4.)
+- **인턴 연구원**. \*\*대학교 계산뇌과학연구실 (2021. 9. - 2022. 4.)
+
+## 학력사항
+
+- \*\*대학교 바이오융합전공 학부 졸업 (2023)
+- \*\*대학교 컴퓨터과학전공 학부 졸업 (2023)
+
+## 기타 자료
+
+- 개인 웹 페이지
+- 링크드인
+
+> 블라인드 채용 전형 지원 중으로 인해 위 링크들은 임시 삭제 조치하였습니다.
