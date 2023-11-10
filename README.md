@@ -17,10 +17,3 @@ I am a developer with full-stack project experience in web programming. I was al
   <img src="https://img.shields.io/badge/GNU%20Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white" />&nbsp;
   <img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white" />&nbsp;
 </p>
-
-<h3 align="center">🚀 More Links</h3>
-<p align="center">
-  <a href="https://youngwookim.com">
-    <img src="https://img.shields.io/badge/Portfolio-9665EC?style=flat-square" />
-  </a>
-</p>
