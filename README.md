@@ -1,6 +1,6 @@
-# Hi, I'm Youngwoo 👋
+# Hi, I am ******** 👋
 
-I am a developer with full-stack project experience in web programming. I am also currenly a neuroscience researcher working on efficient algorithms for mapping human brain neuron connectivity.
+I am a developer with full-stack project experience in web programming. I was also a neuroscience researcher working on efficient algorithms for mapping human brain neuron connectivity.
 
 <h3 align="center">📚 Tech Stack</h3>
 <p align="center">
@@ -23,11 +23,4 @@ I am a developer with full-stack project experience in web programming. I am als
   <a href="https://youngwookim.com">
     <img src="https://img.shields.io/badge/Portfolio-9665EC?style=flat-square" />
   </a>
-  &nbsp;
-  <a href="https://www.linkedin.com/in/youngwoo-kim-sean/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />  
-  </a>
-  &nbsp;
 </p>
-
-Portfolio: https://youngwookim.com
