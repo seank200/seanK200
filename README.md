@@ -8,11 +8,12 @@
 
 <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white" /> &nbsp;<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" /> &nbsp;<img src="https://img.shields.io/badge/MYSQL-4479A1?style=flat-square&logo=mysql&logoColor=white" /> &nbsp;<img src="https://img.shields.io/badge/DynamoDB-4053D6?style=flat-square&logo=AmazonDynamoDB&logoColor=white" /> &nbsp;<img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=Redis&logoColor=white" /> &nbsp;<img src="https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=black" /> &nbsp;<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" /> &nbsp;<img src="https://img.shields.io/badge/Bash-4EAA25?logo=gnubash&style=flat-square&logoColor=white" />
 
-- REST API 서버 개발 주도 (`NodeJS`)
-- `MYSQL`, `NoSQL`, `Redis` DB 모델링
+- REST API 서버 개발 주도 (`NodeJS`), `MYSQL`, `NoSQL`, `Redis` DB 모델링
 - 웹 서버 시스템 아키텍쳐 구축 및 아마존웹서비스(AWS) 배포
-- 개발(6명), 기획(3명), 마케터(1명), 디자인(1명)과 협업하며 약 1년간 서비스 운영. 주기적 유지보수 및 업데이트 배포 실시
-- 2022 중소기업벤처부 창업지원대상 선정
+- 개발(6명), 기획(3명), 마케터(1명), 디자인(1명)과 협업하며 서비스 기획, 기능 출시 로드맵 등 활발히 의견 교류
+- 가입 유저 약 200명. 약 1년간 서비스 운영하며 주기적 유지보수 및 업데이트 배포 실시
+
+> 2022 중소기업벤처부 창업지원대상 선정
 
 ### 뇌신경 섬유추적지도 알고리즘 개발
 
@@ -27,8 +28,10 @@
 <img src="https://img.shields.io/badge/ReactJS-61DAFB?style=flat-square&logo=React&logoColor=white" /> &nbsp;<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" /> &nbsp;<img src="https://img.shields.io/badge/React%20Query-FF4154?style=flat-square&logo=reactquery&logoColor=white" /> &nbsp;<img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" />
 
 - 웹 프론트엔드 개발 (`ReactJS`, 반응형 디자인, SPA, CSR)
-- 개발(4명), 기획(2명), 디자인(2명)과 협업하여 약 6개월간 서비스 운영. 주기적 유지보수 및 업데이트 배포 실시
-- 2021 중소기업벤처부 창업지원대상 선정
+- 개발(4명), 기획(2명), 디자인(2명)과 협업하여 서비스 기획, 디자인 관련 아이디어 활발히 제시
+- 가입 유저 약 90명. 약 6개월간 서비스 운영하며 주기적 유지/보수 및 업데이트 배포 실시
+
+> 2021 중소기업벤처부 창업지원대상 선정
 
 ### \*\*대학교 교내 프로그램 학생 참석 관리 프로그램 풀스택 개발
 
@@ -49,10 +52,3 @@
 
 - \*\*대학교 바이오융합전공 학부 졸업 (2023)
 - \*\*대학교 컴퓨터과학전공 학부 졸업 (2023)
-
-## 기타 자료
-
-- 개인 웹 페이지
-- 링크드인
-
-> 블라인드 채용 전형 지원 중으로 인해 위 링크들은 임시 삭제 조치하였습니다.
