@@ -20,7 +20,7 @@
 <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white" /> &nbsp;<img src="https://img.shields.io/badge/MATLAB-c04d0b?style=flat-square" /> &nbsp;<img src="https://img.shields.io/badge/MPI-0073b5?style=flat-square" /> &nbsp;<img src="https://img.shields.io/badge/Bash-4EAA25?logo=gnubash&style=flat-square&logoColor=white" />
 
 - 뇌 확산텐서영상(DTI) 처리를 위한 확산텐서 추출 알고리즘 최적화(`C++`), 병렬화(`MPI`)
-- 대규모 클러스터 서버 내 성능 테스팅 실시, 테스트 결과 분석 및 시각화(`MATLAB`)
+- 대규모 클러스터 서버 (~100,000코어) 내 성능 테스팅 실시, 테스트 결과 분석 및 시각화(`MATLAB`)
 - 뇌 MRI 영상 데이터 처리 파이프라인 개발
 
 ### 링크 저장, 공유, 탐색 플랫폼 웹 프론트엔드 개발 (Poolink)
@@ -52,3 +52,18 @@
 
 - \*\*대학교 바이오융합전공 학부 졸업 (2023)
 - \*\*대학교 컴퓨터과학전공 학부 졸업 (2023)
+
+## 어학능력
+
+### 공인어학성적
+
+| | 시험명 | 점수 / 등급 | 취득일시 | 주최기관 |
+| - | - | - | - | - |
+| ![OPIc](https://www.opic.or.kr/senior/img/com_2/hd_wi.gif) | OPIc | **AL** (Advanced Low) | 2023. 9. 11. | ACTFL |
+| ![TOEFL](https://imagesisa.ybmnet.co.kr/platform/exam_ybmnet_co_kr/common/all_menu_logo_01.gif?ver0811) | TOEIC | **990** / 990 | 2023. 9. 24. | ETS |
+
+### 관련 경력
+
+#### 어학병, **사령부
+- 통역: 대령급/장성급 한미 연합 정보 공조 회의 동시/순차 통역 (일 평균 4시간+)
+- 번역: 정보 분석 보고서 번역 (일 평균 A4 20장+ 분량)
