@@ -1,6 +1,6 @@
-# 안녕하세요, \*\*\* 입니다
+# 안녕하세요, 김영우 입니다
 
-풀스택 웹 개발자 Full-stack web developer
+Software developer at [KT Corp.](https://corp.kt.com/eng/)
 
 ## 프로젝트 경험
 
@@ -33,7 +33,7 @@
 
 > 2021 중소기업벤처부 창업지원대상 선정
 
-### \*\*대학교 교내 프로그램 학생 참석 관리 프로그램 풀스택 개발
+### 연세대학교 교내 프로그램 학생 참석 관리 프로그램 풀스택 개발
 
 <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white" /> &nbsp;<img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white" /> &nbsp;<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" /> &nbsp;<img src="https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jquery&logoColor=white" /> &nbsp;<img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" /> &nbsp;<img src="https://img.shields.io/badge/MYSQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
 
@@ -43,15 +43,15 @@
 
 ## 업무 경험
 
-- **연구원**. \*\*대학교 계산뇌과학연구실 (2023. 3. - 2023. 11.)
-- **인턴 연구원**. 미국 \*\*\* 국립 연구소 (2023. 6. - 2023. 8.)
+- **연구원**. 연세대학교 계산뇌과학연구실 (2023. 3. - 2023. 11.)
+- **연구원**. 미국 아르곤 국립 연구소 (2023. 6. - 2023. 8.)
 - **CTO**. Web3 기술 스타트업 Facade (2022. 3. - 2023. 4.)
-- **인턴 연구원**. \*\*대학교 계산뇌과학연구실 (2021. 9. - 2022. 4.)
+- **인턴 연구원**. 연세대학교 계산뇌과학연구실 (2021. 9. - 2022. 4.)
 
 ## 학력사항
 
-- \*\*대학교 바이오융합전공 학부 졸업 (2023)
-- \*\*대학교 컴퓨터과학전공 학부 졸업 (2023)
+- 연세대학교 바이오융합전공 학부 졸업 (2023)
+- 연세대학교 컴퓨터과학전공 학부 졸업 (2023)
 
 ## 어학능력
 
@@ -64,6 +64,6 @@
 
 ### 관련 경력
 
-#### 어학병, **사령부
+#### 어학병, 한미연합군사령부
 - 통역: 대령급/장성급 한미 연합 정보 공조 회의 동시/순차 통역 (일 평균 4시간+)
 - 번역: 정보 분석 보고서 번역 (일 평균 A4 20장+ 분량)
